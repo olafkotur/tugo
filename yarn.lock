@@ -4727,6 +4727,11 @@ react-native-safe-area-view@^0.14.1:
   dependencies:
     debounce "^1.2.0"
 
+react-native-slack-webhook@^0.0.5:
+  version "0.0.5"
+  resolved "https://registry.yarnpkg.com/react-native-slack-webhook/-/react-native-slack-webhook-0.0.5.tgz#deb1dc742eb6c70deb4326362c82ea45e9b6a87a"
+  integrity sha1-3rHcdC62xw3rQyY2LILqRem2qHo=
+
 react-native-view-shot@2.6.0:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/react-native-view-shot/-/react-native-view-shot-2.6.0.tgz#3b23675826f67658366352c4b97b59a6aded2f43"
